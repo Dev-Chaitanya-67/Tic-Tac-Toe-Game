@@ -35,9 +35,13 @@
 
 ## 🌐 Play Online
 
-No installation is required. The game is hosted securely online and can be accessed directly at the link below:
+No installation is required. The game is hosted securely online and can be accessed directly by clicking the animated button below:
 
-### 👉 **[Play Tic-Tac-Toe Game Here!](https://playtictactoehere.netlify.app/)**
+<div align="center">
+  <a href="https://playtictactoehere.netlify.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=35&pause=1000&color=12E2A3&center=true&vCenter=true&width=600&height=100&lines=🎮+PLAY+TIC-TAC-TOE+NOW+!;🕹️+CLICK+HERE+TO+START+;🚀+NO+DOWNLOAD+REQUIRED+" alt="Animated Play Button" />
+  </a>
+</div>
 
 ---
 
@@ -176,7 +180,7 @@ open index.html
 
 ## 🕹️ Usage Instructions
 
-To play the game directly, visit the [Live Deployment](https://playtictactoehere.netlify.app/).
+To play the game directly, click the **[Animated Play Button](#-play-online)** above or visit the [Live Deployment](https://playtictactoehere.netlify.app/).
 
 1. **Game Start**: The game typically defaults to Player X's turn first.
 2. **Taking Turns**: Players take turns clicking on empty squares on the 3x3 grid to place their markers.
